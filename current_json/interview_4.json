@@ -1,0 +1,46 @@
+{
+  "video_name": "interview_4",
+  "color": {
+    "major colors": {
+      "0.834,0.2,0.1": 48914649,
+      "0.584,0.2,0.1": 19311453,
+      "0.834,0.2,0.85": 5810971,
+      "0.834,0.2,0.75": 4444438,
+      "0.834,0.2,0.95": 4091194,
+      "0.834,0.2,0.65": 2406407,
+      "0.083,0.2,0.5": 2353084,
+      "0.834,0.2,0.5": 2095755,
+      "0.834,0.2,0.3": 1749294,
+      "0.584,0.2,0.5": 1299810
+    }
+  },
+  "motion": {
+    "sum": 212752745,
+    "avgMean": 1.9237625235098363,
+    "avgMedian": 0.0,
+    "avgStd": 5.745890647824741,
+    "globalMin": 0,
+    "globalMax": 248
+  },
+  "audio": {
+    "amplitudeMax": 0.96,
+    "amplitudeMin": -0.96,
+    "amplitudeMean": 0.0,
+    "amplitudeStd": 0.07,
+    "spectrogramMax": 774830.85,
+    "spectrogramMin": 0.0,
+    "spectrogramMean": 5558.38,
+    "spectrogramStd": 29688.43,
+    "lowPass10000": 0.67,
+    "lowPass15000": 0.69,
+    "highPass10000": 0.07,
+    "highPass20000": 0.04,
+    "highPass30000": 0.04,
+    "highPass40000": 0.03,
+    "highPass50000": 0.03,
+    "adjustSpectrogramSum": 1.455387569107E10,
+    "adjustSpectrogramCount": 20455.0,
+    "adjustSpectrogramAvg": 4474.89,
+    "normalizedSpectrogramMean": 0.8
+  }
+}

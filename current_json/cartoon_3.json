@@ -1,0 +1,46 @@
+{
+  "video_name": "cartoon_3",
+  "color": {
+    "major colors": {
+      "0.584,0.55,0.5": 10957658,
+      "0.584,0.85,0.1": 9510795,
+      "0.584,0.55,0.3": 9114834,
+      "0.584,0.85,0.5": 7181361,
+      "0.584,0.85,0.3": 6139657,
+      "0.584,0.85,0.95": 5496466,
+      "0.584,0.85,0.65": 4446859,
+      "0.834,0.85,0.1": 4079381,
+      "0.584,0.55,0.1": 4050464,
+      "0.584,0.2,0.3": 3883218
+    }
+  },
+  "motion": {
+    "sum": 609598493,
+    "avgMean": 5.512139151114004,
+    "avgMedian": 1.4354166666666666,
+    "avgStd": 12.247531073889634,
+    "globalMin": 0,
+    "globalMax": 247
+  },
+  "audio": {
+    "amplitudeMax": 0.95,
+    "amplitudeMin": -0.89,
+    "amplitudeMean": 0.0,
+    "amplitudeStd": 0.07,
+    "spectrogramMax": 4032212.03,
+    "spectrogramMin": 0.0,
+    "spectrogramMean": 5923.78,
+    "spectrogramStd": 33862.18,
+    "lowPass10000": 0.52,
+    "lowPass15000": 0.54,
+    "highPass10000": 0.1,
+    "highPass20000": 0.06,
+    "highPass30000": 0.04,
+    "highPass40000": 0.03,
+    "highPass50000": 0.03,
+    "adjustSpectrogramSum": 9.54174720796E9,
+    "adjustSpectrogramCount": 11983.0,
+    "adjustSpectrogramAvg": 5008.01,
+    "normalizedSpectrogramMean": 0.73
+  }
+}

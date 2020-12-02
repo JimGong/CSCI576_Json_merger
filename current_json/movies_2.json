@@ -1,0 +1,46 @@
+{
+  "video_name": "movies_2",
+  "color": {
+    "major colors": {
+      "0.417,0.85,0.1": 28533189,
+      "0.25,0.55,0.1": 19679375,
+      "0.417,0.55,0.1": 16419111,
+      "0.25,0.85,0.1": 15764220,
+      "0.083,0.2,0.1": 12017488,
+      "0.25,0.55,0.3": 2562734,
+      "0.25,0.2,0.1": 2160831,
+      "0.083,0.55,0.1": 1991176,
+      "0.083,0.85,0.1": 1772389,
+      "0.417,0.2,0.1": 1493648
+    }
+  },
+  "motion": {
+    "sum": 153713222,
+    "avgMean": 1.389912669994214,
+    "avgMedian": 0.15,
+    "avgStd": 4.406830989252691,
+    "globalMin": 0,
+    "globalMax": 248
+  },
+  "audio": {
+    "amplitudeMax": 0.9,
+    "amplitudeMin": -0.46,
+    "amplitudeMean": 0.0,
+    "amplitudeStd": 0.11,
+    "spectrogramMax": 2054587.9,
+    "spectrogramMin": 0.0,
+    "spectrogramMean": 11908.71,
+    "spectrogramStd": 55748.66,
+    "lowPass10000": 0.71,
+    "lowPass15000": 0.74,
+    "highPass10000": 0.15,
+    "highPass20000": 0.1,
+    "highPass30000": 0.08,
+    "highPass40000": 0.06,
+    "highPass50000": 0.05,
+    "adjustSpectrogramSum": 2.445001940637E10,
+    "adjustSpectrogramCount": 15320.0,
+    "adjustSpectrogramAvg": 10037.45,
+    "normalizedSpectrogramMean": 0.77
+  }
+}

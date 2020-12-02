@@ -1,0 +1,46 @@
+{
+  "video_name": "concerts_0",
+  "color": {
+    "major colors": {
+      "0.083,0.2,0.1": 34088679,
+      "0.083,0.85,0.1": 28570426,
+      "0.083,0.55,0.1": 11117579,
+      "0.083,0.55,0.3": 6439745,
+      "0.834,0.85,0.1": 5624473,
+      "0.834,0.2,0.1": 4265035,
+      "0.584,0.85,0.1": 3979118,
+      "0.834,0.55,0.1": 2802912,
+      "0.083,0.55,0.5": 1913969,
+      "0.083,0.85,0.3": 1833164
+    }
+  },
+  "motion": {
+    "sum": 163515278,
+    "avgMean": 1.4785452654803248,
+    "avgMedian": 0.0,
+    "avgStd": 6.482873308072679,
+    "globalMin": 0,
+    "globalMax": 255
+  },
+  "audio": {
+    "amplitudeMax": 0.96,
+    "amplitudeMin": -0.84,
+    "amplitudeMean": 0.0,
+    "amplitudeStd": 0.1,
+    "spectrogramMax": 1975509.54,
+    "spectrogramMin": 0.0,
+    "spectrogramMean": 11326.9,
+    "spectrogramStd": 49567.39,
+    "lowPass10000": 0.61,
+    "lowPass15000": 0.63,
+    "highPass10000": 0.12,
+    "highPass20000": 0.09,
+    "highPass30000": 0.07,
+    "highPass40000": 0.06,
+    "highPass50000": 0.05,
+    "adjustSpectrogramSum": 2.899685496486E10,
+    "adjustSpectrogramCount": 19503.0,
+    "adjustSpectrogramAvg": 9350.88,
+    "normalizedSpectrogramMean": 0.77
+  }
+}

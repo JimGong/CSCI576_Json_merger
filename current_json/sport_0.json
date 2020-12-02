@@ -1,0 +1,46 @@
+{
+  "video_name": "sport_0",
+  "color": {
+    "major colors": {
+      "0.417,0.55,0.5": 53837146,
+      "0.834,0.2,0.5": 6606490,
+      "0.083,0.2,0.5": 2926566,
+      "0.834,0.55,0.5": 2886121,
+      "0.834,0.2,0.3": 2831015,
+      "0.834,0.2,0.65": 2695153,
+      "0.25,0.2,0.3": 2670366,
+      "0.834,0.2,0.75": 2605436,
+      "0.083,0.2,0.3": 2553211,
+      "0.417,0.2,0.3": 2396324
+    }
+  },
+  "motion": {
+    "sum": 277116206,
+    "avgMean": 2.5057527307581022,
+    "avgMedian": 0.5604166666666667,
+    "avgStd": 6.687693090342949,
+    "globalMin": 0,
+    "globalMax": 223
+  },
+  "audio": {
+    "amplitudeMax": 0.97,
+    "amplitudeMin": -0.87,
+    "amplitudeMean": 0.0,
+    "amplitudeStd": 0.04,
+    "spectrogramMax": 634490.12,
+    "spectrogramMin": 0.03,
+    "spectrogramMean": 4093.37,
+    "spectrogramStd": 18647.54,
+    "lowPass10000": 0.5,
+    "lowPass15000": 0.52,
+    "highPass10000": 0.08,
+    "highPass20000": 0.05,
+    "highPass30000": 0.03,
+    "highPass40000": 0.02,
+    "highPass50000": 0.02,
+    "adjustSpectrogramSum": 6.00658081589E9,
+    "adjustSpectrogramCount": 11464.0,
+    "adjustSpectrogramAvg": 3295.29,
+    "normalizedSpectrogramMean": 0.52
+  }
+}
